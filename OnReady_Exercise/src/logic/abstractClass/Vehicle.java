@@ -95,10 +95,10 @@ public abstract class Vehicle implements Comparable<Vehicle> {
     }
 
     @Override
-    public int compareTo(Vehicle thisVehicle) {
-        if (price == thisVehicle.price) {
+    public int compareTo(Vehicle anotherVehicle) {
+        if (price == anotherVehicle.price) {
             return 0;
-        } else if (price < thisVehicle.price) {
+        } else if (price < anotherVehicle.price) {
             return 1;
         } else {
             return -1;
