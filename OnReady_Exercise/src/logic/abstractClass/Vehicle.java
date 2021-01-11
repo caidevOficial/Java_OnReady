@@ -24,9 +24,9 @@ import java.text.DecimalFormat;
  */
 public abstract class Vehicle implements Comparable<Vehicle> {
     
-    String brand;
-    String model;
-    double price;
+    protected String brand;
+    protected String model;
+    protected double price;
     
     /**
      * Reserves space in memory for the entity.
