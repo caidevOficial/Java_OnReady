@@ -67,6 +67,10 @@ public class Main {
 	System.out.println("=============================");
     }
     
+    /**
+     * Prints the brand and model of every vehicle, ordered by price.
+     * @param vehicles  List of vehicles to iterate.
+     */
     public static void PrintOrderedByPrice(List<Vehicle> vehicles) {
 	System.out.println("Vehículos ordenados por precio de mayor a menor:");
 	for (Vehicle vehicle : vehicles) {
