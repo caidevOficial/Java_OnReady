@@ -1,7 +1,17 @@
-<p align="center"><a href="https://onready.com.ar/" target="_blank"><img alt="OnReady" src="https://onready.com.ar/static/images/logo-color-horizontal.png"/></p></br>
+<table>
+  <tr>
+    <td>
+      <a href="https://onready.com.ar/" target="_blank"><img alt="OnReady" src="https://onready.com.ar/static/images/logo-color-horizontal.png"/>
+    </td>
+    <td>
+      <img alt="Java" src="https://github.com/caidevOficial/Logos/raw/master/Lenguajes/java.png" height="100px"/>
+    </td>
+  </tr>
+</table>
+</br>
 
 ## Exercise Fullstack Java Junior/Trainee.
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caidevOficial" alt="caidevOficial" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caidevOficial" alt="caidevOficial" /></a>
 </br>
 
 ## Technologies used. 📌
