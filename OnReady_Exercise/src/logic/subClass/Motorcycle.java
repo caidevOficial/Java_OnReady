@@ -24,7 +24,7 @@ import logic.abstractClass.Vehicle;
  */
 public class Motorcycle extends Vehicle {
 
-    int displacement;
+    private int displacement;
     
     /**
      * Reserves space in memory to build the motorcycle.
